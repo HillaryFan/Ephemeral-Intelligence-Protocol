@@ -44,7 +44,22 @@ The detailed operating procedures and control specifications are maintained outs
 
 Human participation is not treated as a checkbox. Consequential checkpoints require sufficient context, a defined cognitive contribution, real authority to challenge or reject the output, and enough time to exercise that authority.
 
+Version 2.1 distinguishes two functions that may coexist at a checkpoint. An **authority-preserving checkpoint** exists because permission, accountability, risk, safety, or stop rights require an authorized human decision. A **formation or cognitive-support checkpoint** supplies diagnosis, decomposition, premise repair, or next-step reasoning that a configuration may later be tested without. Evidence that supports reducing one specified cognitive support does not cancel a mandatory authority checkpoint.
+
 EIP distinguishes AI use from contribution, a candidate signal from validation, and a validated contribution from a complete professional qualification. Any contribution indicator is bounded evidence for learning and recognition; it is not a universal employee score.
+
+## Version 2.1 integrated research extensions
+
+Version 2.1 adds a public research layer without changing the canonical architecture:
+
+- a Scaffold-to-Persistence formation path that separates governed reusable assets from demonstrated operating competence;
+- controlled withdrawal, transfer, novelty, interruption, escalation, and restoration questions for specified support;
+- a contextual HITL operating range rather than a universal human-to-agent ratio;
+- four Outcome Efficiency domains: reliable productive outcomes, human cognitive sustainability, realized human benefit, and governance integrity;
+- leadership responsibility for feedback quality, review capacity, recovery, work density, benefit allocation, and support-state decisions;
+- separate authority and competence records so that inadequate permission and inadequate capability trigger different responses.
+
+The optional **Thermal-Palette** research direction considers whether revisable affective and experiential estimates could support context selection alongside semantic, task, and outcome signals. It does not imply AI emotion, consciousness, access to a person's true feelings, or an approved production architecture. Its mechanisms and measures remain unvalidated and outside the required EIP core.
 
 ## Technology boundary
 
@@ -54,7 +69,7 @@ The Technical Assurance Layer and proposed Agent Control Profile are logical con
 
 ## Enterprise calibration
 
-A bounded Enterprise Calibration allows an organization to configure and test EIP against one real workflow. It examines organizational, workflow, people, technical, evidence, rights, and commercial conditions. Negative evidence, review burden, unresolved dependencies, unfairness, and stop decisions are valid findings.
+A bounded Enterprise Calibration allows an organization to configure and test EIP against one real workflow. It examines organizational, workflow, people, technical, evidence, rights, and commercial conditions. Where formation is investigated, the enterprise must identify the exact support being changed, keep other material conditions visible, and test transfer, escalation, total burden, and restoration. Negative evidence, review overload, unresolved dependencies, unfairness, and stop decisions are valid findings.
 
 The calibration concludes with a recorded choice to scale, refine, remain bounded, pause, or stop.
 
@@ -63,4 +78,3 @@ The calibration concludes with a recorded choice to scale, refine, remain bounde
 EIP was developed from pharmaceutical R&D, Clinical Development, and Clinical Operations, where patient privacy, sponsor confidentiality, study boundaries, blinding, data integrity, safety, GxP expectations, and accountable human decisions create a high-stringency test environment.
 
 The framework may be relevant beyond this domain, but transfer requires local re-examination rather than assumed equivalence.
-

@@ -14,6 +14,7 @@ Public visibility is not treated as a substitute for controlled review.
 - names and one-paragraph operating intent of the five protocols;
 - the purpose and possible outcomes of a bounded Enterprise Calibration;
 - high-level descriptions of the three-volume set and reader paths;
+- the public v2.1 change summary, version lineage, and integrated research themes;
 - explicit non-claims and evidence expectations;
 - rights, attribution, and responsible-feedback notice.
 
@@ -26,11 +27,12 @@ Public visibility is not treated as a substitute for controlled review.
 - validation protocols, test scripts, failure cases, incident procedures, rollback mechanics, and evidence records;
 - contract clauses, pricing, incentive formulas, supplier negotiation positions, IP allocation mechanisms, and exit packages;
 - detailed clinical cases, sponsor or study logic, quantitative outcomes, proprietary diagrams, and source working papers;
-- v2.1 Change Register, candidate change material, unpublished research notes, and future-version decisions.
+- complete v2.1 volumes, internal comments, Integration and Source Register, Change Register, candidate change material, handoff memoranda, unpublished research notes, and future-version decisions;
+- detailed formation paths, support-state records, proposed measure definitions, formulas, comparison designs, and context-modulation mechanisms.
 
 ## Research-horizon boundary
 
-Portable contribution credentials, professional passports, zero-knowledge proof, cross-platform contribution scoring, differentiated AI identity, autonomy budgets, and related workforce-governance ideas are not part of the v2.0 five-protocol core. They should not be represented as deployed EIP capabilities or current implementation commitments.
+Portable contribution credentials, professional passports, zero-knowledge proof, cross-platform contribution scoring, differentiated AI identity, autonomy budgets, and related workforce-governance ideas are not part of the five-protocol core. Thermal-Palette experience-sensitive context modulation is likewise an optional research direction rather than a required architecture. These subjects should not be represented as deployed EIP capabilities, validated mechanisms, or current implementation commitments.
 
 ## Responsible discussion
 
